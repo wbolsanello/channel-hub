@@ -1,4 +1,4 @@
-[sem grupo]: 0 de 125
+[sem grupo]: 0 de 114
  Canais | Adultos +18 LGBT: 0 de 11
  Canais | Band: 28 de 28
  Canais | Campeonatos : 0 de 32
@@ -9,32 +9,33 @@
  Filmes | Adultos Hentai +18: 0 de 40
  Filmes | Adultos Lesb +18: 0 de 38
  Filmes | Adultos Trans +18: 0 de 26
- Filmes | Apple TV+: 0 de 747
+ Filmes | Apple TV+: 0 de 778
  Filmes | Copa Do Mundo 2022: 0 de 64
- Filmes | GloboPlay: 0 de 337
+ Filmes | GloboPlay: 0 de 344
  Filmes | Infantil: 2 de 826
- Filmes | Lançamentos 2026: 0 de 435
- Filmes | Legendados: 2 de 4208
+ Filmes | Lançamentos 2026: 0 de 448
+ Filmes | Legendados: 2 de 4242
  Filmes | Nacional: 0 de 302
- Filmes | Paramount +: 0 de 141
- Séries | Legendado: 0 de 8684
+ Filmes | Paramount +: 0 de 142
+ Séries | Legendado: 0 de 8878
  Séries | Novelas Mexicanas: 0 de 3824
  Séries | Treine em Casa - Aulas: 0 de 216
-24HRS =  NOVELAS: 0 de 55
+24HRS =  NOVELAS: 0 de 54
 24HRS =  SERIADOS: 0 de 48
-24HRS = DESENHOS: 73 de 73
+24HRS = DESENHOS: 68 de 68
 A FAZENDA 18 ☀️: 7 de 7
-AREA DO CLIENTE: 0 de 3
-CANAIS = 4K/UHD: 0 de 27
-CANAIS = A FAZENDA 18: 6 de 6
+AREA DO CLIENTE: 0 de 4
+BRASILEIRÃO 02/11 ⚽: 0 de 2
+CANAIS = 4K/UHD: 0 de 28
+CANAIS = A FAZENDA 18: 8 de 8
 CANAIS = ABERTOS: 23 de 23
-CANAIS = BAND: 22 de 22
+CANAIS = BAND: 23 de 23
 CANAIS = DISCOVERY: 24 de 24
 CANAIS = DISNEY+: 0 de 13
 CANAIS = DOCUMENTARIOS: 12 de 12
 CANAIS = ESPN: 18 de 18
 CANAIS = ESPORTES: 21 de 21
-CANAIS = FILMES SERIES: 0 de 61
+CANAIS = FILMES SERIES: 0 de 69
 CANAIS = GLOBO: 0 de 183
 CANAIS = HBO: 16 de 16
 CANAIS = INFANTIL: 0 de 39
@@ -74,7 +75,7 @@ CANAIS: NBA / PPV ⛹️: 0 de 10
 CANAIS: NOTÍCIAS ✨: 48 de 48
 CANAIS: NOVELAS GLOBOPLAY ✨: 0 de 12
 CANAIS: PARAMOUNT + LIBERTADORES ⚽: 18 de 18
-CANAIS: PPV / ESPORTES ⚽: 33 de 33
+CANAIS: PPV / ESPORTES ⚽: 35 de 35
 CANAIS: PREMIERE ⚽: 86 de 86
 CANAIS: PRIME VIDEO ⚽: 10 de 10
 CANAIS: RECORD ✨: 52 de 52
@@ -94,7 +95,7 @@ COLETÂNEA / BRUCE WILLIS ⚔️: 0 de 39
 COLETÂNEA / CAVALEIROS DO ZODIACO ⚔️: 0 de 8
 COLETÂNEA / CHALES BRONSON ✅: 0 de 13
 COLETÂNEA / CHUCK NORRIS ⚔️: 0 de 17
-COLETÂNEA / DC COMICS ⚡: 0 de 51
+COLETÂNEA / DC COMICS ⚡: 0 de 68
 COLETÂNEA / ESPECIAL DE NATAL ❤️: 1 de 239
 COLETÂNEA / HALLOWEN ⚓: 0 de 10
 COLETÂNEA / HARRY POTTER ♻️: 0 de 8
@@ -143,7 +144,7 @@ Canais | Globo Sudeste: 0 de 80
 Canais | HBO: 31 de 31
 Canais | HBO MAX: 21 de 21
 Canais | Infantil: 0 de 28
-Canais | Italia: 0 de 16
+Canais | Italia: 0 de 27
 Canais | Latinos: 0 de 51
 Canais | Legendados: 0 de 57
 Canais | Marvel 24 Horas: 0 de 4
@@ -162,238 +163,186 @@ Canais | Telecine: 0 de 24
 Canais | USA NFL Gamepass: 0 de 21
 Canais | United States: 0 de 277
 Canais | Uruguay : 0 de 11
-Coletânea | A Era do Gelo: 0 de 8
-Coletânea | A Hora do Pesadelo: 0 de 8
-Coletânea | Alien: 0 de 11
-Coletânea | American Pie: 0 de 9
-Coletânea | Avatar: 0 de 7
-Coletânea | Bad Boys: 0 de 5
-Coletânea | Batman: 0 de 780
-Coletânea | Capitão América: 0 de 5
-Coletânea | Carros: 0 de 5
-Coletânea | Coringa: 0 de 1
-Coletânea | Creed: 0 de 4
-Coletânea | Crepúsculo: 0 de 8
-Coletânea | Criminal Minds: 0 de 351
-Coletânea | De Volta para o Futuro: 0 de 3
-Coletânea | Deadpool: 0 de 5
-Coletânea | Divergente: 0 de 3
-Coletânea | Duro de Matar: 0 de 5
-Coletânea | Godzilla: 0 de 71
-Coletânea | Guardiões da Galáxia: 0 de 6
-Coletânea | Halloween: 0 de 28
-Coletânea | Harry Potter: 0 de 11
-Coletânea | Homem de Ferro: 0 de 4
-Coletânea | Homem-Aranha: 0 de 13
-Coletânea | Indiana Jones: 0 de 5
-Coletânea | Invocação do Mal: 0 de 10
-Coletânea | Jogos Mortais: 0 de 12
-Coletânea | Jogos Vorazes: 0 de 6
-Coletânea | John Wick: 0 de 7
-Coletânea | Jurassic Park: 0 de 7
-Coletânea | Karatê Kid: 0 de 7
-Coletânea | King Kong: 0 de 3
-Coletânea | Liga da Justiça: 0 de 26
-Coletânea | MIB: Homens de Preto: 0 de 6
-Coletânea | Matrix: 0 de 5
-Coletânea | Maze Runner: 0 de 3
-Coletânea | Missão: Impossível: 0 de 10
-Coletânea | Monstros S.A.: 0 de 2
-Coletânea | Máquina Mortífera: 0 de 4
-Coletânea | O Exterminador do Futuro: 0 de 5
-Coletânea | O Hobbit: 0 de 6
-Coletânea | O Senhor dos Anéis: 0 de 17
-Coletânea | Os Mercenários: 0 de 5
-Coletânea | Percy Jackson: 0 de 3
-Coletânea | Piratas do Caribe: 0 de 7
-Coletânea | Planeta dos Macacos: 0 de 10
-Coletânea | Predador: 0 de 17
-Coletânea | Premonição: 0 de 9
-Coletânea | Pânico: 0 de 46
-Coletânea | Rambo: 0 de 6
-Coletânea | Rocky: 0 de 9
-Coletânea | Scooby-Doo: 0 de 392
-Coletânea | Sexta-Feira 13: 0 de 13
-Coletânea | Sherlock Holmes: 0 de 3
-Coletânea | Shrek: 0 de 7
-Coletânea | Star Trek: 0 de 14
-Coletânea | Star Wars: 0 de 476
-Coletânea | Superman: 0 de 699
-Coletânea | The Vampire Diaries: 0 de 331
-Coletânea | The Walking Dead: 0 de 329
-Coletânea | Thor: 0 de 8
-Coletânea | Todo Mundo em Pânico: 0 de 7
-Coletânea | Transformers: 0 de 10
-Coletânea | Velozes e Furiosos: 0 de 14
-Coletânea | Vingadores: 0 de 15
-Coletânea | X-Men: 0 de 9
-ELEIÇÕES 25/10 ⚔️: 0 de 4
+Coletânea | The Vampire Diaries: 0 de 332
+Coletânea | The Walking Dead: 0 de 355
 FILMES / ADULTOS ⛔: 0 de 3997
-FILMES / ANIMAÇÃO ✈️: 2 de 689
-FILMES / AVENTURA ⚛️: 0 de 54
-FILMES / AÇÃO ⚡: 0 de 1768
-FILMES / COMÉDIA ♥️: 0 de 2126
-FILMES / CRIME ❌: 0 de 100
-FILMES / DOCUMENTÁRIOS ☣️: 789 de 789
-FILMES / DRAMA ♥️: 0 de 2775
-FILMES / FAMÍLIA ♥️: 0 de 67
-FILMES / FANTASIA ✨: 0 de 742
+FILMES / ANIMAÇÃO ✈️: 2 de 552
+FILMES / ANIMES ⚓: 0 de 148
+FILMES / AÇÃO ⚡: 0 de 1775
+FILMES / CINEMA ✮: 0 de 87
+FILMES / COMÉDIA ♥️: 0 de 2136
+FILMES / CRIME ❌: 0 de 103
+FILMES / DOCUMENTÁRIOS ☣️: 803 de 803
+FILMES / DRAMA ♥️: 0 de 2808
+FILMES / FAMÍLIA ♥️: 0 de 68
+FILMES / FANTASIA ✨: 0 de 750
 FILMES / FAROESTE ⚜️: 0 de 138
-FILMES / GUERRA ⚔️: 0 de 131
+FILMES / GUERRA ⚔️: 0 de 133
 FILMES / INFANTIS ❤️: 65 de 65
-FILMES / LANÇAMENTOS ⚡: 0 de 1269
+FILMES / LANÇAMENTOS ⚡: 0 de 1214
 FILMES / LEGENDADOS ✉️: 2 de 3368
 FILMES / NACIONAIS ✅: 0 de 490
 FILMES / RELIGIOSOS ⭐: 0 de 102
-FILMES / ROMANCE ♥️: 1 de 597
+FILMES / ROMANCE ♥️: 1 de 606
 FILMES / SUSPENSE ☢️: 0 de 679
-FILMES / TERROR ⚠️: 1 de 1512
-FILMES : PEDIDOS: 0 de 35
-Filmes / Animes / Donghuas: 0 de 105
-Filmes / Cinema / CAM: 0 de 10
-Filmes / Disney+ / Marvel: 0 de 505
-Filmes / HBO Max / DC: 412 de 412
-Filmes / Look / Prime Video: 612 de 612
-Filmes | 4K: 0 de 935
-Filmes | 4K / UHD: 0 de 2
-Filmes | Acao: 0 de 1811
+FILMES / TERROR ⚠️: 1 de 1529
+Filmes / Animes / Donghuas: 0 de 107
+Filmes / Cinema / CAM: 0 de 9
+Filmes / Disney+ / Marvel: 0 de 516
+Filmes / HBO Max / DC: 423 de 423
+Filmes / Look / Prime Video: 640 de 640
+Filmes | 4K: 0 de 943
 Filmes | Adultos +18: 0 de 1115
-Filmes | Animacao: 3 de 868
 Filmes | Animação: 0 de 221
-Filmes | Anime: 0 de 206
-Filmes | Aventura: 0 de 272
-Filmes | Cinema: 0 de 42
-Filmes | Comedia: 0 de 3261
+Filmes | Aventura: 0 de 206
+Filmes | Comedia: 0 de 1014
 Filmes | Copa Do Mundo 2026: 0 de 82
-Filmes | Crime: 0 de 196
-Filmes | Documentarios: 536 de 536
-Filmes | Drama: 0 de 4001
-Filmes | Família: 1 de 73
-Filmes | Fantasia: 0 de 333
-Filmes | Faroeste: 0 de 246
-Filmes | Ficcao: 0 de 261
+Filmes | Documentarios: 523 de 523
+Filmes | Drama: 0 de 1205
+Filmes | Faroeste: 0 de 119
 Filmes | Ficção : 0 de 240
-Filmes | Guerra: 0 de 93
-Filmes | Infantil: 0 de 48
-Filmes | Lancamentos: 0 de 335
-Filmes | Lançamentos 2024: 0 de 1306
-Filmes | Lançamentos 2025: 0 de 770
-Filmes | Legendados: 2 de 5104
-Filmes | Nacionais: 0 de 474
-Filmes | Novidades: 0 de 71
-Filmes | Prime Video: 2742 de 2742
-Filmes | Religiosos: 0 de 94
-Filmes | Romance: 0 de 610
+Filmes | Lançamentos 2025: 0 de 772
+Filmes | Prime Video: 2757 de 2757
+Filmes | Romance: 0 de 90
 Filmes | Sons Para Dormir : 0 de 10
-Filmes | Suspense: 0 de 1019
-Filmes | Terror: 2 de 2442
-Filmes/Diversos: 0 de 588
-Filmes/Mercado Play/MUBI/Plex/YouTube: 0 de 136
-Filmes/Netflix: 0 de 1073
+Filmes | Suspense: 0 de 433
+Filmes | Terror: 1 de 1140
+Filmes/Diversos: 0 de 608
+Filmes/Mercado Play/MUBI/Plex/YouTube: 0 de 160
+Filmes/Netflix: 0 de 1111
 JOGOS DE HOJE ⚽: 0 de 1
+LANÇAMENTOS / LEGENDADOS ✅: 0 de 462
 MALHAÇÃO ❤️: 0 de 4728
-NOVELAS ❤️: 0 de 46433
+NOVELAS ❤️: 0 de 46456
+PEDIDOS / CLIENTES ♥️: 0 de 40
 RÁDIOS FM ✨: 0 de 215
 Series / Look / Prime Video: 32 de 32
-Series | AMC Plus: 0 de 84
-Series | Apple TV Plus: 0 de 5632
-Series | Brasil Paralelo: 0 de 276
-Series | Claro video: 0 de 215
-Series | Crunchyroll: 0 de 5663
-Series | DirecTV: 0 de 3280
-Series | Discovery Plus: 6977 de 6977
-Series | Disney Plus: 6 de 13388
-Series | Dorama: 0 de 8243
-Series | Funimation Now: 0 de 994
-Series | Globoplay: 0 de 18307
-Series | Lionsgate: 0 de 100
-Series | Max: 0 de 14784
-Series | Mexicanas: 0 de 6670
-Series | Netflix: 0 de 27614
-Series | Novelas: 0 de 43612
-Series | Outras Produtoras: 72 de 23113
-Series | Paramount: 0 de 7265
-Series | PlutoTV: 0 de 76
-Series | Prime Video: 20867 de 20867
-Series | Reelshort: 0 de 189
-Series | SBT: 0 de 774
-Series | Star Plus: 0 de 3610
-Series | Turcas: 0 de 6824
+Series | Em Alta: 0 de 1089
 Shows : 0 de 92
 Shows Rock in Rio 2022: 0 de 33
 Shows Rock in Rio 2024: 0 de 99
 Shows | Gospel: 0 de 11
+Shows | Músicas | Variadas: 0 de 130
 Stand Up Comedy: 0 de 25
-SÉRIES / AMAZON PRIME ▶️: 14 de 19951
+SÉRIES / AMAZON PRIME ▶️: 14 de 19657
 SÉRIES / AMC PLUS ❇️: 0 de 82
-SÉRIES / ANIMADAS ⛺: 0 de 8046
-SÉRIES / APPLE PLUS ⚡: 0 de 6367
+SÉRIES / ANIMADAS ⛺: 0 de 7919
+SÉRIES / APPLE PLUS ⚡: 0 de 6318
 SÉRIES / BRASIL PARALELO ⭐: 0 de 262
-SÉRIES / CLARO VIDEO ♦️: 0 de 247
-SÉRIES / CRUNCHOROLL ⚔️: 0 de 10892
-SÉRIES / DIRECTV ⚡: 0 de 3629
-SÉRIES / DISCOVERY + ✔️: 7690 de 7690
-SÉRIES / DISNEY + ✈️: 6 de 14563
-SÉRIES / DORAMAS ❤️: 0 de 12561
-SÉRIES / GLOBOPLAY ⭐: 0 de 17781
-SÉRIES / LEGENDADAS ⚡: 0 de 26806
+SÉRIES / CLARO VIDEO ♦️: 0 de 227
+SÉRIES / CRUNCHOROLL ⚔️: 0 de 10621
+SÉRIES / DIRECTV ⚡: 0 de 3485
+SÉRIES / DISCOVERY + ✔️: 7452 de 7452
+SÉRIES / DISNEY + ✈️: 6 de 14628
+SÉRIES / DORAMAS ❤️: 0 de 12585
+SÉRIES / GLOBOPLAY ⭐: 0 de 18145
+SÉRIES / LEGENDADAS ⚡: 0 de 26648
 SÉRIES / LIONSGASTE ✅: 0 de 100
-SÉRIES / MAX Ⓜ️: 0 de 16064
-SÉRIES / NETFLIX ⚡: 32 de 31152
-SÉRIES / OUTRAS PRODUTORAS ♻️: 0 de 24393
-SÉRIES / PARAMOUNT ▶️: 0 de 8933
-SÉRIES / PEDIDOS CLIENTES ❤️: 0 de 2140
+SÉRIES / MAX Ⓜ️: 0 de 15583
+SÉRIES / METAL HERO E SUPER SENTAIS 〽️: 0 de 666
+SÉRIES / NETFLIX ⚡: 32 de 30975
+SÉRIES / OUTRAS PRODUTORAS ♻️: 0 de 22423
+SÉRIES / PARAMOUNT ▶️: 0 de 8743
 SÉRIES / PLUTO TV ⚔️: 0 de 76
-SÉRIES / SBT ⛺: 0 de 791
+SÉRIES / SBT ⛺: 0 de 793
 SÉRIES / SHORTS ™️: 0 de 167
 SÉRIES / SHOW GOSPEL ⛺: 0 de 157
 SÉRIES / SHOW PAGODE ⚓: 0 de 220
 SÉRIES / SHOW SERTANEJO ⚜️: 0 de 112
-SÉRIES / SHOWS MUSICAS ❇️: 0 de 130
-SÉRIES / STAR PLUS ✨: 0 de 4207
-SÉRIES / TURCAS ☕: 0 de 11707
-SÉRIES / UNIVER ☀️: 0 de 242
-Séries / Animes / Donghuas: 0 de 22860
-Séries / Disney+ / Marvel: 0 de 18066
-Séries / HBO Max / DC: 13023 de 13023
+SÉRIES / STAR PLUS ✨: 0 de 4147
+SÉRIES / TURCAS ☕: 0 de 11311
+SÉRIES / UNIVER ☀️: 0 de 250
+Séries / Animes / Donghuas: 0 de 22936
+Séries / Disney+ / Marvel: 0 de 18082
+Séries / HBO Max / DC: 13245 de 13245
 Séries | Animação: 0 de 6525
-Séries | Apple TV: 0 de 2836
-Séries | Argentina: 0 de 448
+Séries | Apple TV: 0 de 2850
 Séries | Brasil Paralelo: 0 de 98
-Séries | Colômbia: 0 de 1175
-Séries | Coreia do Sul: 0 de 9791
-Séries | Crunchyroll: 0 de 2205
+Séries | Coreia do Sul: 0 de 285
+Séries | Crunchyroll: 0 de 2206
 Séries | Cursos / Aulas: 0 de 1952
-Séries | Desenhos: 15355 de 15355
-Séries | Discovery+: 588 de 588
-Séries | Diversas: 41 de 22057
-Séries | Documentarios: 3693 de 3693
-Séries | Doramas Dublados: 0 de 4144
-Séries | Doramas Legendados: 0 de 4582
-Séries | Globoplay: 0 de 11780
+Séries | Desenhos: 15437 de 15437
+Séries | Discovery+: 578 de 578
+Séries | Diversas: 41 de 21674
+Séries | Documentarios: 3702 de 3702
+Séries | Doramas Dublados: 0 de 4180
+Séries | Doramas Legendados: 0 de 4580
+Séries | Globoplay: 0 de 11796
 Séries | Lollapalooza Brasil 2025: 0 de 46
-Séries | Marrocos: 0 de 6
 Séries | National Geographic: 0 de 96
-Séries | Netflix: 0 de 20768
-Séries | Novelas: 171 de 71652
-Séries | Novelas e Séries Turcas: 0 de 14363
-Séries | Paramount: 0 de 8715
-Séries | Portugal: 0 de 541
-Séries | Prime Video: 15734 de 15734
-Séries | Reality show / Programa de TV: 328 de 11169
+Séries | Netflix: 0 de 20945
+Séries | Novelas: 171 de 72071
+Séries | Novelas e Séries Turcas: 0 de 14584
+Séries | Paramount: 0 de 8720
+Séries | Prime Video: 15624 de 15624
+Séries | Reality show / Programa de TV: 328 de 11491
 Séries | ReelShort - Mobile: 0 de 166
 Séries | Shows: 0 de 50
-Séries | Suíça: 0 de 24
-Séries | Tailândia: 0 de 1095
-Séries | África do Sul: 0 de 275
-Séries | Índia: 0 de 300
 Séries/Mercado Play/MUBI/Plex/YouTube/: 0 de 188
-XX FILMES | ADULTOS: 0 de 1892
 Z - CANAIS: ADULTOS ⛔: 0 de 27
-⭐ Filmes | Mais Assistidos ⭐: 0 de 30
-⭐ Séries | Mais Assistidas ⭐: 0 de 275
-⭐FILMES | 2026: 0 de 552
-⭐SÉRIES : DISCOVERY: 199 de 199
-⭐SÉRIES : HBO MAX: 441 de 441
-⭐SÉRIES : LEGENDADOS: 0 de 40316
-⭐SÉRIES : SBT: 0 de 973
+⭐ Filmes | Mais Assistidos ⭐: 0 de 10
+⭐ Séries | Mais Assistidas ⭐: 0 de 226
+⭐FILMES | 2026: 0 de 1086
+⭐FILMES | ANIMAÇÃO: 1 de 1096
+⭐FILMES | AVENTURA: 0 de 1458
+⭐FILMES | AÇÃO: 0 de 4231
+⭐FILMES | CINEMA TV: 0 de 291
+⭐FILMES | COMÉDIA: 0 de 4523
+⭐FILMES | CRIME: 0 de 1239
+⭐FILMES | DIVERSOS: 1 de 2422
+⭐FILMES | DOCUMENTÁRIO: 1 de 1552
+⭐FILMES | DRAMA: 1 de 6007
+⭐FILMES | FAMÍLIA: 2 de 850
+⭐FILMES | FANTASIA: 0 de 556
+⭐FILMES | FAROESTE: 0 de 244
+⭐FILMES | FICÇÃO CIENTÍFICA: 0 de 894
+⭐FILMES | GUERRA: 0 de 290
+⭐FILMES | HISTÓRIA: 0 de 228
+⭐FILMES | LEGENDADOS: 4 de 11615
+⭐FILMES | MISTÉRIO: 0 de 382
+⭐FILMES | MÚSICA: 0 de 233
+⭐FILMES | ROMANCE: 2 de 979
+⭐FILMES | TERROR: 1 de 2708
+⭐FILMES | THRILLER: 0 de 1729
+⭐SÉRIES : A&E: 0 de 128
+⭐SÉRIES : ABC: 0 de 8097
+⭐SÉRIES : AMC: 0 de 509
+⭐SÉRIES : BBC: 0 de 1513
+⭐SÉRIES : CBS: 0 de 6677
+⭐SÉRIES : CHANNEL 4: 0 de 236
+⭐SÉRIES : CLARO TV+: 0 de 690
+⭐SÉRIES : CRUNCHYROLL: 0 de 136
+⭐SÉRIES : DISCOVERY: 5190 de 5190
+⭐SÉRIES : DISNEY+: 0 de 9182
+⭐SÉRIES : DIVERSAS: 6 de 37210
+⭐SÉRIES : DRAMAS CURTOS: 0 de 360
+⭐SÉRIES : Dorama: 0 de 16223
+⭐SÉRIES : FOX: 0 de 7149
+⭐SÉRIES : FX: 0 de 1537
+⭐SÉRIES : GLOBOPLAY: 0 de 33586
+⭐SÉRIES : HBO MAX: 4799 de 4799
+⭐SÉRIES : HISTORY: 0 de 560
+⭐SÉRIES : HULU: 0 de 2559
+⭐SÉRIES : ITV: 0 de 716
+⭐SÉRIES : LIONSGATE+: 0 de 31
+⭐SÉRIES : LOOKE: 0 de 21
+⭐SÉRIES : MGM: 0 de 203
+⭐SÉRIES : NBC: 0 de 6153
+⭐SÉRIES : NETFLIX: 0 de 31264
+⭐SÉRIES : Novelas: 0 de 24034
+⭐SÉRIES : Novelas Mexicanas: 0 de 5962
+⭐SÉRIES : Outras Produtoras: 0 de 5083
+⭐SÉRIES : PARAMOUNT+: 0 de 2098
+⭐SÉRIES : PEACOCK: 0 de 470
+⭐SÉRIES : PLUTO TV: 0 de 10
+⭐SÉRIES : PRIME VIDEO: 28200 de 28200
+⭐SÉRIES : RECORD: 2125 de 2125
+⭐SÉRIES : SBT: 0 de 3004
+⭐SÉRIES : SHOWTIME: 0 de 1183
+⭐SÉRIES : SKY: 0 de 350
+⭐SÉRIES : STAR+: 0 de 298
+⭐SÉRIES : SYFY: 0 de 873
+⭐SÉRIES : THE CW: 0 de 3041
+⭐SÉRIES : Turcas: 0 de 12857
+⭐SÉRIES : VIX: 0 de 36
+⭐SÉRIES : YOUTUBE: 0 de 818
